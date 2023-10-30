@@ -1,6 +1,6 @@
 import random
 
-name = input("Enter your name please: ")
+name = input("Enter your name please:   ")
 
 while True:
     question = "Would you like to know if you will win the lottery? (yes/no) "
